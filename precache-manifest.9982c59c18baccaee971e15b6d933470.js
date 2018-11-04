@@ -4,7 +4,7 @@ self.__precacheManifest = [
     "url": "/static/media/stair-door.b8f6bdbd.jpg"
   },
   {
-    "revision": "fb301edabfaced7328ab",
+    "revision": "4e2c8066ed89d17d46b1",
     "url": "/static/css/main.a540c810.chunk.css"
   },
   {
@@ -32,8 +32,8 @@ self.__precacheManifest = [
     "url": "/static/media/home-puerta-escalera.a533818e.jpg"
   },
   {
-    "revision": "e00ebc9e05be91670a724a31d0a89fdb",
-    "url": "/static/media/mallas-invisibles.e00ebc9e.jpg"
+    "revision": "893c8d5b21f32cf0e22d5a052dc7f950",
+    "url": "/static/media/mallas-invisibles.893c8d5b.jpg"
   },
   {
     "revision": "38f8a6c59e07855e807de51761b60dea",
@@ -68,8 +68,8 @@ self.__precacheManifest = [
     "url": "/static/media/safaty-net-parallax-02.1baa56a9.jpg"
   },
   {
-    "revision": "fb301edabfaced7328ab",
-    "url": "/static/js/main.fb301eda.chunk.js"
+    "revision": "4e2c8066ed89d17d46b1",
+    "url": "/static/js/main.4e2c8066.chunk.js"
   },
   {
     "revision": "c02761706a672af0cfd86f714706f648",
@@ -88,16 +88,16 @@ self.__precacheManifest = [
     "url": "/static/media/nucleo-outline.8ebec31f.woff2"
   },
   {
+    "revision": "22a0bffe789c286a9d78eb52670996a7",
+    "url": "/static/media/nucleo-outline.22a0bffe.ttf"
+  },
+  {
     "revision": "24e2d6b43b1b0f84fdfaa06a4032f154",
     "url": "/static/media/nucleo-outline.24e2d6b4.woff"
   },
   {
     "revision": "53a1bed7a3ec86d010fe100873828a89",
     "url": "/static/media/nucleo-outline.53a1bed7.eot"
-  },
-  {
-    "revision": "22a0bffe789c286a9d78eb52670996a7",
-    "url": "/static/media/nucleo-outline.22a0bffe.ttf"
   },
   {
     "revision": "1169af846606b417a1b9d62591826581",
@@ -132,7 +132,7 @@ self.__precacheManifest = [
     "url": "/static/media/net-05.197e5c59.jpg"
   },
   {
-    "revision": "fc9e5d6abf41ca53b4857799debd7919",
+    "revision": "67fc065d28718da89f18e54abcb43227",
     "url": "/index.html"
   }
 ];
